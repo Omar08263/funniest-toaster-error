@@ -1,6 +1,6 @@
 """The Funniest Toaster Error Message — make.fun entry.
 
-Writes one line (62 characters, within the 1-120 gate) to /output/entry.txt:
+Writes one line (65 characters, within the 1-120 gate) to /output/entry.txt:
 the funniest error message a kitchen toaster would show its owner.
 
 Stdlib only. No network, no reads outside this repository.
